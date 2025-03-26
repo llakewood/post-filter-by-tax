@@ -1,13 +1,13 @@
 
-# Cactus Post Type Filter
+# WordPress Post Type Filter
 
-## Version: 1.0
+## Version: 0.1
 
 A shortcode [posttype_filter] that accepts 'type', 'tag', and 'category' parameters.
 
 ## Usage
 
-```
+```text
 [posttype_filter type="###" tag="###" category="###"]
 ```
 
@@ -17,4 +17,4 @@ A shortcode [posttype_filter] that accepts 'type', 'tag', and 'category' paramet
 
 ## Author
 
-CACTUS Design Inc. (Developed by [VarCo](https://www.thevariables.com))
+Developed by [VarCo](https://www.thevariables.com)
