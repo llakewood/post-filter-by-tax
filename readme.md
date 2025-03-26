@@ -7,7 +7,7 @@ A shortcode [posttype_filter] that accepts 'type', 'tag', and 'category' paramet
 
 ## Usage
 
-```php
+```
 [posttype_filter type="###" tag="###" category="###"]
 ```
 
