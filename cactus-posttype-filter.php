@@ -166,7 +166,7 @@ function posttype_filter_shortcode($atts) {
 
                     case 'client-checklists':
                         $cat = "Client Checklists";
-                        $icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59 35" width="50" height="50"><g><g><g><path class="st0" d="M56.5,20h-36a2.5,2.5,0,0,1,0-5h36a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M8.5,20h-6a2.5,2.5,0,0,1,0-5h6a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M56.5,35h-36a2.5,2.5,0,0,1,0-5h36a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M8.5,35h-6a2.5,2.5,0,0,1,0-5h6a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M56.5,5h-36a2.5,2.5,0,0,1,0-5h36a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M8.5,5h-6a2.5,2.5,0,0,1,0-5h6a2.5,2.5,0,0,1,0,5Z"/></g></g></g></svg>';
+                        $icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59 35" width="50" height="50"><g class="fill_ffffff"><path class="st0" d="M56.5,20h-36a2.5,2.5,0,0,1,0-5h36a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M8.5,20h-6a2.5,2.5,0,0,1,0-5h6a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M56.5,35h-36a2.5,2.5,0,0,1,0-5h36a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M8.5,35h-6a2.5,2.5,0,0,1,0-5h6a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M56.5,5h-36a2.5,2.5,0,0,1,0-5h36a2.5,2.5,0,0,1,0,5Z"/><path class="st0" d="M8.5,5h-6a2.5,2.5,0,0,1,0-5h6a2.5,2.5,0,0,1,0,5Z"/></g></svg>';
                         $overlay = "overlay_000000";
                         $img = 'https://jhslearninghub.ca/wp-content/uploads/2025/03/737c11020e7938048d03b324f8fae86cf42e8ad1_checklist-blogpost.avif';
                     break;

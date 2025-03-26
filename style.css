@@ -50,11 +50,15 @@ body.single-portfolio #regular_portfolio .container.main-content {
 } 
 
 .st0, .st1 {
-    fill: #fff;
+    fill: none;
     stroke: #fff;
     stroke-linecap: round;
     stroke-linejoin: round;
     stroke-width: .9px;
+}
+
+.fill_ffffff .st0 {
+    fill: #ffffff
 }
 
 /* Grid layout for the video cards */
