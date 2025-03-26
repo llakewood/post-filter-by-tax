@@ -17,4 +17,4 @@ A shortcode [posttype_filter] that accepts 'type', 'tag', and 'category' paramet
 
 ## Author
 
-CACTUS Design Inc. (Developed by Les Lakewood)
+CACTUS Design Inc. (Developed by [https://www.thevariables.com](VarCo))
